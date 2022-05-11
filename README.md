@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-Portfolio Site including links to my projects and ways to get in contact with me.
+Portfolio site including links to my projects and ways to get in contact with me.
 
 **Link to project:** http://ashleychristman.com/
 
