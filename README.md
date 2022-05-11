@@ -4,7 +4,8 @@ Portfolio Site including links to my projects and ways to get in contact with me
 
 **Link to project:** http://ashleychristman.com/
 
-![Ashley Christman - Software Engineer](https://www.canva.com/design/DAFAauStm94/watch)
+![Ashley Christman - Software Engineer](images/PortfolioGitHubSocialPreview.png)
+
 
 ## How It's Made:
 
