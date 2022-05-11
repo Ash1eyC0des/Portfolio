@@ -19,7 +19,7 @@ When I update my portfolio I will be focusing on adding more animations and addi
 
 ## Lessons Learned:
 
-My portfolio taught me a lot about the importance of seperation of concerns and progressive enhancement. 
+My portfolio taught me a lot about the importance of separation of concerns and progressive enhancement. 
 
 
 
