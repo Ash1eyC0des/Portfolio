@@ -2346,3 +2346,61 @@ input, select, textarea {
 	float: right;
 	width: 25%;
 }
+
+/* Projects  */
+
+#work a span {
+	display: block;
+	position: absolute;
+	background: #222222;
+	color: #ffffff;
+	top: -2.75em;
+	font-size: 0.3em;
+	height: 2.25em;
+	line-height: 2.25em;
+	left: 50%;
+	opacity: 0;
+	-moz-transition: opacity .25s ease-in-out;
+	-webkit-transition: opacity .25s ease-in-out;
+	-ms-transition: opacity .25s ease-in-out;
+	transition: opacity .25s ease-in-out;
+	width: 6.5em;
+	margin-left: -2.75em;
+	text-align: center;
+}
+
+	#work a span:after {
+		content: '';
+		display: block;
+		position: absolute;
+		bottom: -0.4em;
+		left: 50%;
+		margin-left: -0.6em;
+		border-top: solid 0.6em #222222;
+		border-left: solid 0.6em transparent;
+		border-right: solid 0.6em transparent;
+	}
+
+#work a:hover {
+	opacity: 1.0;
+}
+
+	#work a:hover span {
+		opacity: 1.0;
+	}
+
+#work a.active {
+	opacity: 1.0;
+}
+
+	#work a.active:after {
+		border-bottom-width: 0.5em;
+	}
+
+@media screen and (max-width: 980px) {
+
+#work a span {
+	display: none;
+}
+
+}
